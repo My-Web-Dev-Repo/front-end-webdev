@@ -11,3 +11,11 @@ Read this!
 - https://github.com/My-Web-Dev-Repo/cli-6-completing-assignments
 
 2. Git Version Control
+
+- https://github.com/My-Web-Dev-Repo/git-1-version-control-introduction-to-version-control
+- https://github.com/My-Web-Dev-Repo/git-2-version-control-basics
+- https://github.com/My-Web-Dev-Repo/git-3-getting-code-with-git
+- https://github.com/My-Web-Dev-Repo/git-4-pushing-code
+- https://github.com/My-Web-Dev-Repo/git-5-basics-lab
+
+
